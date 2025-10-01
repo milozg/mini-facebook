@@ -4,6 +4,7 @@ mini‑facebook is a lightweight demonstration project, designed to showcase the
 
 ---
 
+![mini_facebook_gif](https://github.com/user-attachments/assets/a595e80e-196e-428a-bd3a-c1e5d8456dd4)
 
 
 ---
